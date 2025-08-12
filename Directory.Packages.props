@@ -14,7 +14,7 @@
     <PackageVersion Include="AutoFixture.AutoNSubstitute " Version="5.0.0-preview0011" />
     <PackageVersion Include="AutoFixture.XUnit2" Version="5.0.0-preview0011" />
     <PackageVersion Include="Azure.Identity" Version="1.13.2" />
-    <PackageVersion Include="CommunityToolkit.Aspire.Hosting.Dapr" Version="9.4.0" />
+    <PackageVersion Include="CommunityToolkit.Aspire.Hosting.Dapr" Version="9.7.0" />
     <PackageVersion Include="coverlet.collector" Version="6.0.2" />
     <PackageVersion Include="coverlet.msbuild" Version="6.0.2" />
     <PackageVersion Include="Dapr.Actors.AspNetCore" Version="1.15.4" />
